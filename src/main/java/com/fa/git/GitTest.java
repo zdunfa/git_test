@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("test第一次测试");
         System.out.println("master测试");
         System.out.println("test测试");
+        System.out.println("push测试");
     }
 }
