@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("第一次测试");
         System.out.println("第二次测试");
         System.out.println("第三次测试");
+        System.out.println("test第一次测试");
     }
 }
